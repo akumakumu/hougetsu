@@ -1,4 +1,12 @@
-## Dev Notes Under WSL2
+## Dev Notes
+
+### VSC Extension
+
+```bash
+# Add your ESP-IDF path to includePath
+# By Default, it should be in your home folder
+/home/username/esp/**
+```
 
 ### PowerShell
 
